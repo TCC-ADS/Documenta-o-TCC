@@ -1,0 +1,9 @@
+Login
+Tela de venda (Possuindo comprovante de venda(Cupon não Fiscal))
+Tela de Cadastro de Clientes
+Tela de Cadastro de Produtos
+Tela de estoque
+Contas a Pagar (dispesas)
+Contas a Receber (Controle de dividas do cliente)
+Caixa (Valor de entrada, valor de saida, sangrias, e vales)
+
